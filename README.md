@@ -102,7 +102,7 @@ plt.show()
 ```
 
 ### Result
-![Visualization of In Demand Skills Trend for Data Roles in Malaysia](4_self_project\images\skills_trends.png)
+![Visualization of In Demand Skills Trend for Data Roles in Malaysia](4_self_project/images/skills_trends.png)
 
 ### Insight
 - SQL and Excel consistently dominate the skill requirements, with SQL slightly leading. Their high demand underscores their position as the backbone of data analysis work.
@@ -133,7 +133,7 @@ plt.show()
 ```
 
 ### Result 
-![Visualization of Jobs Pays for Data Roles in Malaysia](4_self_project\images\salary_analysis.png)
+![Visualization of Jobs Pays for Data Roles in Malaysia](4_self_project/images/salary_analysis.png)
 
 ### Insight
 - Senior Data Engineer earns the highest salaries, with a wide range up to ~$160K, showing strong demand for advanced engineering skills.
@@ -172,7 +172,7 @@ plt.show()
 ```
 
 ### Result
-![Visualization of Top Skills Pays for Data Analyst Roles in Malaysia](4_self_project\images\salary_analysis2.png)
+![Visualization of Top Skills Pays for Data Analyst Roles in Malaysia](4_self_project/images/salary_analysis2.png)
 
 ### Insight
 - Azure, BigQuery, and Excel stand out as both high-paying and highly demanded skills for Data Analysts in Malaysia.
@@ -212,7 +212,7 @@ plt.show()
 ```
 
 ### Result
-![Visualization of the Most Optimal Skills for Data Analyst Roles in Malaysia](4_self_project\images\optimal_skills.png)
+![Visualization of the Most Optimal Skills for Data Analyst Roles in Malaysia](4_self_project/images/optimal_skills.png)
 
 ### Insight
 - Excel dominates both in demand and salary, making it the most strategic skill for aspiring data analysts in Malaysia.

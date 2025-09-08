@@ -184,7 +184,7 @@ plt.show()
 The chart shows the relationship between the popularity of data analyst skills (measured by percentage of job postings) and their corresponding median yearly salary in Malaysia.
 
 Here's the detailed result and steps:
-[5_Optimal_Skills.ipynb](4_self_project\5_Optimal_Skills.ipynb)
+[5_Optimal_Skills.ipynb](4_self_project/5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 ```

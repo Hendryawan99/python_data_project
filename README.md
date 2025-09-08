@@ -7,8 +7,9 @@ The dataset, sourced from [Luke Barousse's Python Course](https://huggingface.co
 Below are the question i want to answer in this project:
 1. What are the most demanded skills for top 3 data roles in Malaysia?
 2. How are in-demand skills trending for data analyst job in Malaysia?
-3. How well do skills pays for data analyst roles in Malaysia?
-4. What is the most optimal skills to learn for data analyst role in Malaysia?
+3. How well do jobs pays for popular data roles in Malaysia?
+4. How well do skills pays for data analyst roles in Malaysia?
+5. What is the most optimal skills to learn for data analyst role in Malaysia?
 
 # Tools I Used
 This project was built using a combination of programming languages, libraries, and platforms for data analysis and visualization:
@@ -24,7 +25,7 @@ This project was built using a combination of programming languages, libraries, 
 This project analyzes job postings data in Malaysia to identify the most in-demand skills for the top three data roles: Data Analyst, Data Engineer, and Data Scientist. The findings highlight both core technical requirements and role-specific expertise that companies are actively seeking.
 
 Here's the detailed result and steps:
-[2_Skills_Demand.ipynb](4_self_project\2_Skills_Demand.ipynb)
+[2_Skills_Demand.ipynb](4_self_project/2_Skills_Demand.ipynb)
 
 ### Visualize Data
 ```
@@ -70,7 +71,7 @@ plt.show()
 This chart illustrates the monthly trends of the top 5 most requested skills for Data Analyst roles in Malaysia during 2023. The visualization highlights the relative likelihood of each skill appearing in job postings, showing how demand fluctuates throughout the year.
 
 Here's the detailed results and steps:
-[3_Skills_Trends.ipynb](4_self_project\3_Skills_Trends.ipynb)
+[3_Skills_Trends.ipynb](4_self_project/3_Skills_Trends.ipynb)
 
 ### Visualize Data
 ```
@@ -114,7 +115,7 @@ plt.show()
 The boxplot illustrates the salary distribution of data-related roles in Malaysia across five positions: Data Engineer, Senior Data Analyst, Data Analyst, Senior Data Engineer, and Data Scientist. Salaries are represented in USD ($).
 
 Here's the detailed result and steps:
-[4_Salary_Analysis.ipynb](4_self_project\4_Salary_Analysis.ipynb)
+[4_Salary_Analysis.ipynb](4_self_project/4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 ```
@@ -143,11 +144,11 @@ plt.show()
 - Data Scientist salaries are modest ($55K–$85K) for most, but with a few outliers above $150K, reflecting niche or senior expertise.
 - Overall, data engineering roles (engineer & senior engineer) show higher earning potential than data analyst and data scientist roles in Malaysia.
 
-## 3. How well do skills pays for data analyst roles in Malaysia?
+## 4. How well do skills pays for data analyst roles in Malaysia?
 This chart shows the top 10 highest-paid and most popular skills for Data Analyst roles in Malaysia. The analysis is based on limited available data, as many entries for annual salary averages were missing.
 
 Here's the detailed result and steps:
-[4_Salary_Analysis.ipynb](4_self_project\4_Salary_Analysis.ipynb)
+[4_Salary_Analysis.ipynb](4_self_project/4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 ```
@@ -179,7 +180,7 @@ plt.show()
 - Big data (Spark, Flow) and visualization tools (Tableau, Looker) show strong relevance, though with varied salary vs popularity balance.
 - ⚠️ Insights are limited since many salary records are missing, so results should be interpreted cautiously.
 
-## 4. What is the most optimal skills to learn for data analyst role in Malaysia?
+## 5. What is the most optimal skills to learn for data analyst role in Malaysia?
 The chart shows the relationship between the popularity of data analyst skills (measured by percentage of job postings) and their corresponding median yearly salary in Malaysia.
 
 Here's the detailed result and steps:

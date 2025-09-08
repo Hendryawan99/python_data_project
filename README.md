@@ -54,7 +54,7 @@ plt.show()
 
 ### Result
 
-![Visualization of Top Demanded Skills for Data Roles in Malaysia](4_self_project\images\skills_demand.png)
+![Visualization of Top Demanded Skills for Data Roles in Malaysia](4_self_project/images/skills_demand.png)
 
 ### Insight
 - Data Analysts are expected to master SQL, Excel, and Python, with strong demand for data visualization tools like Tableau and Power BI.
